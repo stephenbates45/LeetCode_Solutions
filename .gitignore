@@ -2,3 +2,5 @@
 # CMake build output
 **/build/
 
+# vscode settings
+.vscode/settings.json
