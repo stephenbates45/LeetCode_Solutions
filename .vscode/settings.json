@@ -1,3 +1,4 @@
 {
-    "terminal.integrated.stickyScroll.enabled": false
+    "terminal.integrated.stickyScroll.enabled": false,
+    "cmake.sourceDirectory": "C:/Users/thebo/Documents/Computer_Workspaces/CMake_LeetCode/LeetCode_Solutions/01_Two_Sum"
 }
