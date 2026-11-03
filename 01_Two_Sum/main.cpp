@@ -28,7 +28,7 @@ public:
     }
 };
 
-int main(int, char**)
+int main()
 {
     Solution solution;
 

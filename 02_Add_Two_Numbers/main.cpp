@@ -71,8 +71,8 @@ public:
     }
 };
 
-int main(int, char**){
-    
+int main()
+{
    Solution solution;
 
     // Build the input lists, add them, and print the resulting list.
